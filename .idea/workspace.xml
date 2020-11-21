@@ -1,7 +1,250 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b787a1d-7572-4f50-919d-66724467e407" name="Default Changelist" comment="" />
+    <list default="true" id="2b787a1d-7572-4f50-919d-66724467e407" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5-5.15.1.dist-info/INSTALLER" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5-5.15.1.dist-info/INSTALLER" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5-5.15.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5-5.15.1.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5-5.15.1.dist-info/WHEEL" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5-5.15.1.dist-info/WHEEL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QAxContainer.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QAxContainer.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Bluetooth.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Bluetooth.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5DBus.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5DBus.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Designer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Designer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Gui.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Gui.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Help.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Help.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Location.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Location.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Multimedia.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Multimedia.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5MultimediaWidgets.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5MultimediaWidgets.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Network.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Network.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5NetworkAuth.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5NetworkAuth.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Nfc.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Nfc.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5OpenGL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5OpenGL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Positioning.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Positioning.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5PositioningQuick.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5PositioningQuick.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5PrintSupport.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5PrintSupport.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Qml.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Qml.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5QmlModels.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5QmlModels.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5QmlWorkerScript.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5QmlWorkerScript.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Quick.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Quick.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Quick3D.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Quick3D.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Quick3DAssetImport.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Quick3DAssetImport.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Quick3DRender.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Quick3DRender.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Quick3DRuntimeRender.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Quick3DRuntimeRender.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Quick3DUtils.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Quick3DUtils.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5QuickControls2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5QuickControls2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5QuickParticles.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5QuickParticles.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5QuickShapes.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5QuickShapes.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5QuickTemplates2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5QuickTemplates2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5QuickTest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5QuickTest.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5QuickWidgets.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5QuickWidgets.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5RemoteObjects.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5RemoteObjects.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Sensors.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Sensors.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5SerialPort.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5SerialPort.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Sql.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Sql.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Svg.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Svg.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Test.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Test.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5TextToSpeech.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5TextToSpeech.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5WebChannel.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5WebChannel.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5WebSockets.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5WebSockets.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Widgets.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Widgets.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5WinExtras.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5WinExtras.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Xml.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5Xml.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5XmlPatterns.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/Qt5XmlPatterns.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/concrt140.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/concrt140.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/d3dcompiler_47.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/d3dcompiler_47.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/libEGL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/libEGL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/libGLESv2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/libGLESv2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/libcrypto-1_1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/libeay32.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/libeay32.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/libssl-1_1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/msvcp140.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/msvcp140.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/msvcp140_1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/msvcp140_1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/msvcp140_2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/msvcp140_2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/opengl32sw.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/opengl32sw.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/ssleay32.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/ssleay32.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/vcruntime140.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/bin/vcruntime140.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/assetimporters/assimp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/assetimporters/assimp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/assetimporters/uip.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/assetimporters/uip.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/audio/qtaudio_wasapi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/audio/qtaudio_wasapi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/audio/qtaudio_windows.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/audio/qtaudio_windows.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/bearer/qgenericbearer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/bearer/qgenericbearer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/generic/qtuiotouchplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/generic/qtuiotouchplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/geometryloaders/defaultgeometryloader.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/geometryloaders/defaultgeometryloader.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/geometryloaders/gltfgeometryloader.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/geometryloaders/gltfgeometryloader.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/geoservices/qtgeoservices_esri.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/geoservices/qtgeoservices_esri.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/geoservices/qtgeoservices_itemsoverlay.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/geoservices/qtgeoservices_itemsoverlay.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/geoservices/qtgeoservices_mapbox.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/geoservices/qtgeoservices_mapbox.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/geoservices/qtgeoservices_nokia.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/geoservices/qtgeoservices_nokia.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/geoservices/qtgeoservices_osm.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/geoservices/qtgeoservices_osm.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/iconengines/qsvgicon.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/iconengines/qsvgicon.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/imageformats/qgif.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/imageformats/qgif.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/imageformats/qicns.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/imageformats/qicns.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/imageformats/qico.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/imageformats/qico.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/imageformats/qjpeg.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/imageformats/qjpeg.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/imageformats/qsvg.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/imageformats/qsvg.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/imageformats/qtga.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/imageformats/qtga.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/imageformats/qtiff.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/imageformats/qtiff.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/imageformats/qwbmp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/imageformats/qwbmp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/imageformats/qwebp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/imageformats/qwebp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/mediaservice/dsengine.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/mediaservice/dsengine.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/mediaservice/qtmedia_audioengine.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/mediaservice/qtmedia_audioengine.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/mediaservice/wmfengine.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/mediaservice/wmfengine.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/platforms/qminimal.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/platforms/qminimal.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/platforms/qoffscreen.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/platforms/qoffscreen.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/platforms/qwebgl.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/platforms/qwebgl.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/platforms/qwindows.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/platforms/qwindows.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/platformthemes/qxdgdesktopportal.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/platformthemes/qxdgdesktopportal.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/playlistformats/qtmultimedia_m3u.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/playlistformats/qtmultimedia_m3u.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/position/qtposition_positionpoll.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/position/qtposition_positionpoll.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/position/qtposition_serialnmea.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/position/qtposition_serialnmea.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/position/qtposition_winrt.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/position/qtposition_winrt.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/printsupport/windowsprintersupport.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/printsupport/windowsprintersupport.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/renderers/openglrenderer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/renderers/openglrenderer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/sceneparsers/assimpsceneimport.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/sceneparsers/assimpsceneimport.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/sceneparsers/gltfsceneexport.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/sceneparsers/gltfsceneexport.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/sceneparsers/gltfsceneimport.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/sceneparsers/gltfsceneimport.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/sensorgestures/qtsensorgestures_plugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/sensorgestures/qtsensorgestures_plugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/sensorgestures/qtsensorgestures_shakeplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/sensorgestures/qtsensorgestures_shakeplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/sensors/qtsensors_generic.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/sensors/qtsensors_generic.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/sqldrivers/qsqlite.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/sqldrivers/qsqlite.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/sqldrivers/qsqlodbc.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/sqldrivers/qsqlodbc.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/sqldrivers/qsqlpsql.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/sqldrivers/qsqlpsql.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/styles/qwindowsvistastyle.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/styles/qwindowsvistastyle.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/texttospeech/qtexttospeech_sapi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/texttospeech/qtexttospeech_sapi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/webview/qtwebview_webengine.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/plugins/webview/qtwebview_webengine.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/labs/animation/labsanimationplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/labs/animation/labsanimationplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/labs/animation/plugins.qmltypes" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/labs/animation/plugins.qmltypes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/labs/calendar/qtlabscalendarplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/labs/calendar/qtlabscalendarplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/labs/folderlistmodel/plugins.qmltypes" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/labs/folderlistmodel/plugins.qmltypes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/labs/folderlistmodel/qmlfolderlistmodelplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/labs/folderlistmodel/qmlfolderlistmodelplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/labs/location/locationlabsplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/labs/location/locationlabsplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/labs/platform/qtlabsplatformplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/labs/platform/qtlabsplatformplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/labs/qmlmodels/labsmodelsplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/labs/qmlmodels/labsmodelsplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/labs/qmlmodels/plugins.qmltypes" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/labs/qmlmodels/plugins.qmltypes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/labs/settings/plugins.qmltypes" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/labs/settings/plugins.qmltypes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/labs/settings/qmlsettingsplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/labs/settings/qmlsettingsplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/labs/sharedimage/plugins.qmltypes" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/labs/sharedimage/plugins.qmltypes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/labs/sharedimage/sharedimageplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/labs/sharedimage/sharedimageplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/labs/wavefrontmesh/plugins.qmltypes" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/labs/wavefrontmesh/plugins.qmltypes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/labs/wavefrontmesh/qmlwavefrontmeshplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/labs/wavefrontmesh/qmlwavefrontmeshplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/test/qtestroot/plugins.qmltypes" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/Qt/test/qtestroot/plugins.qmltypes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtBluetooth/declarative_bluetooth.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtBluetooth/declarative_bluetooth.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtGraphicalEffects/private/qtgraphicaleffectsprivate.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtGraphicalEffects/private/qtgraphicaleffectsprivate.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtGraphicalEffects/qtgraphicaleffectsplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtGraphicalEffects/qtgraphicaleffectsplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtLocation/declarative_location.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtLocation/declarative_location.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtMultimedia/declarative_multimedia.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtMultimedia/declarative_multimedia.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtNfc/declarative_nfc.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtNfc/declarative_nfc.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtPositioning/declarative_positioning.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtPositioning/declarative_positioning.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQml/Models.2/modelsplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQml/Models.2/modelsplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQml/Models.2/plugins.qmltypes" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQml/Models.2/plugins.qmltypes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQml/RemoteObjects/qtqmlremoteobjects.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQml/RemoteObjects/qtqmlremoteobjects.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQml/StateMachine/plugins.qmltypes" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQml/StateMachine/plugins.qmltypes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQml/StateMachine/qtqmlstatemachine.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQml/StateMachine/qtqmlstatemachine.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQml/WorkerScript.2/plugins.qmltypes" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQml/WorkerScript.2/plugins.qmltypes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQml/WorkerScript.2/workerscriptplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQml/WorkerScript.2/workerscriptplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQml/plugins.qmltypes" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQml/plugins.qmltypes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQml/qmlplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQml/qmlplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick.2/plugins.qmltypes" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick.2/plugins.qmltypes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick.2/qtquick2plugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick.2/qtquick2plugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Controls.2/Fusion/qtquickcontrols2fusionstyleplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Controls.2/Fusion/qtquickcontrols2fusionstyleplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Controls.2/Imagine/qtquickcontrols2imaginestyleplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Controls.2/Imagine/qtquickcontrols2imaginestyleplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Controls.2/Material/qtquickcontrols2materialstyleplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Controls.2/Material/qtquickcontrols2materialstyleplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Controls.2/Universal/qtquickcontrols2universalstyleplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Controls.2/Universal/qtquickcontrols2universalstyleplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Controls.2/qtquickcontrols2plugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Controls.2/qtquickcontrols2plugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Controls/Styles/Flat/qtquickextrasflatplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Controls/Styles/Flat/qtquickextrasflatplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Controls/qtquickcontrolsplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Controls/qtquickcontrolsplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Dialogs/Private/dialogsprivateplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Dialogs/Private/dialogsprivateplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Dialogs/dialogplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Dialogs/dialogplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Extras/qtquickextrasplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Extras/qtquickextrasplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Layouts/plugins.qmltypes" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Layouts/plugins.qmltypes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Layouts/qquicklayoutsplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Layouts/qquicklayoutsplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/LocalStorage/plugins.qmltypes" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/LocalStorage/plugins.qmltypes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/LocalStorage/qmllocalstorageplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/LocalStorage/qmllocalstorageplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Particles.2/particlesplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Particles.2/particlesplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Particles.2/plugins.qmltypes" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Particles.2/plugins.qmltypes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/PrivateWidgets/widgetsplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/PrivateWidgets/widgetsplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Scene2D/qtquickscene2dplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Scene2D/qtquickscene2dplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Scene3D/qtquickscene3dplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Scene3D/qtquickscene3dplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Shapes/plugins.qmltypes" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Shapes/plugins.qmltypes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Shapes/qmlshapesplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Shapes/qmlshapesplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Templates.2/qtquicktemplates2plugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Templates.2/qtquicktemplates2plugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Timeline/qtquicktimelineplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Timeline/qtquicktimelineplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Window.2/plugins.qmltypes" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Window.2/plugins.qmltypes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Window.2/windowplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/Window.2/windowplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/XmlListModel/qmlxmllistmodelplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick/XmlListModel/qmlxmllistmodelplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick3D/Effects/qtquick3deffectplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick3D/Effects/qtquick3deffectplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick3D/Helpers/qtquick3dhelpersplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick3D/Helpers/qtquick3dhelpersplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick3D/Materials/qtquick3dmaterialplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick3D/Materials/qtquick3dmaterialplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick3D/qquick3dplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtQuick3D/qquick3dplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtRemoteObjects/qtremoteobjects.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtRemoteObjects/qtremoteobjects.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtSensors/declarative_sensors.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtSensors/declarative_sensors.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtTest/plugins.qmltypes" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtTest/plugins.qmltypes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtTest/qmltestplugin.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtTest/qmltestplugin.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtWebChannel/declarative_webchannel.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtWebChannel/declarative_webchannel.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtWebSockets/declarative_qmlwebsockets.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/Qt/qml/QtWebSockets/declarative_qmlwebsockets.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtBluetooth.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtBluetooth.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtCore.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtCore.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtDBus.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtDBus.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtDesigner.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtDesigner.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtGui.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtGui.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtHelp.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtHelp.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtLocation.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtLocation.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtMultimedia.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtMultimedia.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtMultimediaWidgets.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtMultimediaWidgets.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtNetwork.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtNetwork.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtNetworkAuth.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtNetworkAuth.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtNfc.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtNfc.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtOpenGL.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtOpenGL.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtPositioning.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtPositioning.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtPrintSupport.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtPrintSupport.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtQml.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtQml.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtQuick.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtQuick.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtQuick3D.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtQuick3D.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtQuickWidgets.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtQuickWidgets.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtRemoteObjects.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtRemoteObjects.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtSensors.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtSensors.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtSerialPort.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtSerialPort.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtSql.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtSql.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtSvg.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtSvg.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtTest.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtTest.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtTextToSpeech.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtTextToSpeech.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtWebChannel.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtWebChannel.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtWebSockets.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtWebSockets.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtWidgets.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtWidgets.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtWinExtras.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtWinExtras.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtXml.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtXml.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtXmlPatterns.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/QtXmlPatterns.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/_QOpenGLFunctions_2_0.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/_QOpenGLFunctions_2_0.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/_QOpenGLFunctions_2_1.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/_QOpenGLFunctions_2_1.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/_QOpenGLFunctions_4_1_Core.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/_QOpenGLFunctions_4_1_Core.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/pylupdate.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/pylupdate.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/pyrcc.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/pyrcc.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5/sip.cp38-win32.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5_sip-12.8.1.dist-info/INSTALLER" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5_sip-12.8.1.dist-info/INSTALLER" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5_sip-12.8.1.dist-info/METADATA" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5_sip-12.8.1.dist-info/METADATA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5_sip-12.8.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5_sip-12.8.1.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5_sip-12.8.1.dist-info/WHEEL" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5_sip-12.8.1.dist-info/WHEEL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5_sip-12.8.1.dist-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyQt5_sip-12.8.1.dist-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/distutils-precedence.pth" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/distutils-precedence.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/easy_install.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easy_install.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/activate.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-3.8.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-3.8.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/easy_install.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.8.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.8.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pylupdate5.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pylupdate5.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pyrcc5.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pyrcc5.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/python.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/python.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pyuic5.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pyuic5.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +260,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pythonProject1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -55,13 +298,35 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605962510689">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605989498995">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605989498995" />
+    <state x="686" y="211" key="FileChooserDialogImpl" timestamp="1605989732769">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605962510689" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1605962560870">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="686" y="211" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605989732769" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1605991090659">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605991090659" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1605991090659">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605991090659" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1605991090659">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605991090659" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1605991090659">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605991090659" />
+    <state x="346" y="72" key="SettingsEditor" timestamp="1605990488459">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605962560870" />
+    <state x="346" y="72" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605990488459" />
   </component>
 </project>
